@@ -1,0 +1,4 @@
+May 27, 2016 at 13:55:00: files/RulesScreen.txt cannot be located!
+May 27, 2016 at 13:55:15: files/RulesScreen.txt cannot be located!
+May 27, 2016 at 16:45:32: messages/CountTitle.txt cannot be located!
+May 30, 2016 at 20:51:49: files/messages/GameMenu.txt cannot be located!

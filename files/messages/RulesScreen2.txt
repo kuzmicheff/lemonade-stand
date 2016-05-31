@@ -1,0 +1,4 @@
+Your expenses are the sum of the cost of the lemonade and the cost of the signs.
+Your profits are the difference between the income from sales and your expenses.
+The number of glasses you sell each day depends on the price you charge, and the number of advertising signs you use.
+Keep track of your assets, because you can't spend more money than you have!

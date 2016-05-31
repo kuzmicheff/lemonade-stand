@@ -1,0 +1,5 @@
+To manage your lemonade stand, you will need to make these decisions every day:
+1. How many glasses of lemonade to make (only one batch is made each morning)
+2. How many advertising signs to make (the signs will cost fifteen cents each)
+3. What price to charge for each glass
+You will begin with $2.00 cash (assets). Because your mother gave you some sugar, your cost to make lemonade is two cents a class (this may change in the future).

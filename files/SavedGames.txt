@@ -1,0 +1,50 @@
+Saved game slot id: 1
+Game days elapsed:  25
+Number of players:  1
+Players assets:     10.32
+-
+Saved game slot id: 2
+Game days elapsed:  6
+Number of players:  2
+Players assets:     2.27, 5.61
+-
+Saved game slot id: 3
+Game days elapsed:  None
+Number of players:  None
+Players assets:     None
+-
+Saved game slot id: 4
+Game days elapsed:  None
+Number of players:  None
+Players assets:     None
+-
+Saved game slot id: 5
+Game days elapsed:  None
+Number of players:  None
+Players assets:     None
+-
+Saved game slot id: 6
+Game days elapsed:  None
+Number of players:  None
+Players assets:     None
+-
+Saved game slot id: 7
+Game days elapsed:  None
+Number of players:  None
+Players assets:     None
+-
+Saved game slot id: 8
+Game days elapsed:  None
+Number of players:  None
+Players assets:     None
+-
+Saved game slot id: 9
+Game days elapsed:  None
+Number of players:  None
+Players assets:     None
+-
+Saved game slot id: 10
+Game days elapsed:  None
+Number of players:  None
+Players assets:     None
+-
